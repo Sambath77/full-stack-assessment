@@ -1,0 +1,30 @@
+.top {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 30%;
+  border-radius: 5px;
+  height: 100%;
+  margin-top: 50px;
+}
+img {
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+}
+.body {
+  padding: 2px 16px;
+}
+
+.bottom {
+  margin-left: 20px;
+}
+.title {
+  margin-left: 50px;
+}
+.subtitle {
+  color: gray;
+  margin-left: 20px;
+}
+.button {
+  display: inline;
+  margin-right: 10px;
+}
