@@ -5,7 +5,7 @@ import Home from './components/routes/home/Home';
 function App() {
   return (
     <Routes>
-      <Route path='/' element={<Navigation />}>
+      <Route path='/full-stack-assessment' element={<Navigation />}>
         <Route index element={<Home />} />
       </Route>
     </Routes>
