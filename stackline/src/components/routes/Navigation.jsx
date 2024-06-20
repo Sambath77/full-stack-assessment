@@ -1,5 +1,5 @@
 import React from 'react';
-import { Outlet, NavLink } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 import { ReactComponent as StackLineLogo } from '../../assets/stackline_logo.svg';
 import './navigation.css';
 

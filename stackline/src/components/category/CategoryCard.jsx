@@ -2,7 +2,6 @@ import './category.css';
 
 const CategoryCard = ({ category }) => {
   const { sales } = category;
-  console.log(sales);
   return (
     <div className='sale'>
       <table id='category'>
